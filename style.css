@@ -6,3 +6,24 @@
     box-sizing: border-box;
     font-family: "Poppins", sans-serif;
 }
+
+body
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background: #000;
+}
+
+.login-box
+{
+    position: relative;
+    width: 400px;
+    height: 350px;
+    background: #191919;
+    border-radius: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
