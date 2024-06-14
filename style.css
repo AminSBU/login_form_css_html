@@ -6,29 +6,3 @@
     box-sizing: border-box;
     font-family: "Poppins", sans-serif;
 }
-
-body{
-
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    min-height: 100vh;
-    background: slateblue;
-}
-
-.wrapper{
-    width: 420px;
-    background: purple;
-    color: #fff;
-}
-
-.wrapper h1
-{
-    font-size: 36px;
-    text-align: center;
-}
-
-.wrapper a{
-    text-align: center;
-    color: #fff;
-}
