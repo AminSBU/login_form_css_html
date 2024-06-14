@@ -34,3 +34,10 @@ h1
     font-size: 2em;
     color: white;
 }
+
+.input-box
+{
+    position: relative;
+    width: 310px;
+    margin: 30px 0;
+}
